@@ -9,4 +9,45 @@
     z-index: -100;
 }
 
+p{
+    color: white;
+    background-color: black;
+    opacity: .85;
+}
 
+.card-body{
+    background-color: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+    opacity: .85;
+}
+
+.contactForm{
+    background-color: grey;
+}
+
+label{
+    color: white;
+}
+
+.col-xs-12.col-sm-12.col-md-12{
+    background-color: black;
+    opacity: .85;
+}
+
+.col-xs-12.col-sm-8.col-md-8{
+    background-color: black;
+    opacity: .85;
+}
+
+.card.text-white.bg-dark.mb-3{
+    background-color: black!important;
+    opacity: .85;
+}
